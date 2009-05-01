@@ -5,6 +5,7 @@
 
 package net.blitzstein.learning.easyb.cartservice.domain;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -12,7 +13,7 @@ import java.util.List;
  * @author jared
  */
 public class Cart {
-    private List<CartItem> products;
+    private List<CartItem> products = new ArrayList();
 
     public List getProducts() {
         return products;
@@ -20,6 +21,10 @@ public class Cart {
 
     public void setProducts(List products) {
         this.products = products;
+    }
+
+    public void addToCart(CartItem cartItem) {
+        this.products.add(cartItem);
     }
 
     public float getSubtotal() {

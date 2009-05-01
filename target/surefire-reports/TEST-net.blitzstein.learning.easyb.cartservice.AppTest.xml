@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" skipped="0" tests="1" time="0.023" failures="0" name="net.blitzstein.learning.easyb.cartservice.AppTest">
+<testsuite errors="0" skipped="0" tests="1" time="0.02" failures="0" name="net.blitzstein.learning.easyb.cartservice.AppTest">
   <properties>
     <property value="Java(TM) 2 Runtime Environment, Standard Edition" name="java.runtime.name"/>
     <property value="/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Libraries" name="sun.boot.library.path"/>
@@ -21,7 +21,7 @@
     <property value="/Users/jared/Documents/programming/java/netbeans-workspace/CartService" name="basedir"/>
     <property value="/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Home/lib/endorsed" name="java.endorsed.dirs"/>
     <property value="i386" name="os.arch"/>
-    <property value="/tmp/surefirebooter31813.jar" name="surefire.real.class.path"/>
+    <property value="/tmp/surefirebooter35475.jar" name="surefire.real.class.path"/>
     <property value="/tmp" name="java.io.tmpdir"/>
     <property value="
 " name="line.separator"/>
