@@ -1,10 +1,10 @@
 h1. Hello and welcome to this demo.
 
-I came across "Cucumber":http://cukes.info/ the other day when looking to start a demo project using "easyby":http://www.easyb.org/ and was doing research. It looks really cool but I wasn't completely enamored with it until I saw Ryan's "Beginning with Cucumber":http://railscasts.com/episodes/155-beginning-with-cucumber and "More on Cucumber":http://railscasts.com/episodes/159-more-on-cucumber
+I came across "Cucumber":http://cukes.info/ the other day when looking to start a demo project using "easyb":http://www.easyb.org/ and was doing research. It looks really cool but I wasn't completely enamored with it until I saw Ryan's "Beginning with Cucumber":http://railscasts.com/episodes/155-beginning-with-cucumber and "More on Cucumber":http://railscasts.com/episodes/159-more-on-cucumber
 
 After watching both, I loved it! I started a new rails app just to drive right in, I didn't even have a goal. But then I realized you can run this on Java apps using JRuby and sure enough, led me to "JRuby and Java":http://wiki.github.com/aslakhellesoy/cucumber/jruby-and-java and linked me over to "Binil's blog":http://binil.wordpress.com/2008/10/29/running-cucumber-on-jrubymaven/
 
-So here it is, a simple demo. I uses a simple shopping cart concept with the following Classes:
+So here it is, a simple demo. It uses a simple shopping cart concept with the following Classes:
 
 * Cart
 * CartItem
